@@ -7,5 +7,5 @@ p second_number
 sum = first_number + second_number
 p sum
 
-subtracting = first_number - second_number
-p subtracting
+difference = first_number - second_number
+p difference
