@@ -2,4 +2,4 @@
 def get_variable_from_file(first_number)
   p first_number
 end
-calculator(2)
+get_variable_from_file(2)
