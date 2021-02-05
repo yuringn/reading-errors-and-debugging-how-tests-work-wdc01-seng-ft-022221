@@ -9,3 +9,5 @@ p sum
 
 difference = first_number - second_number
 p difference
+
+product = first_number * second_number
